@@ -7,6 +7,8 @@ Study prompt template:
 
 Create a comprehensive RHEL 9 study note as a .md file for GitHub on the topic: [TOPIC]
 
+Make sure to include offline+online tips in case the setup needs to be done in an air-gapped environment.
+
 Structure it with the following sections:
 
 ---
